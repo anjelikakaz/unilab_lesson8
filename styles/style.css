@@ -119,6 +119,7 @@ a{
 .last-box{
 	background-color: #2E2E2E;
 	padding: 50px;
+	margin-top: 40px;
 }
 .flex{
 	display: flex;
